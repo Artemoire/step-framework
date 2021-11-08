@@ -1,0 +1,20 @@
+{
+  "name": "step-framework",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Artemoire/step-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artemoire/step-framework/issues"
+  },
+  "homepage": "https://github.com/Artemoire/step-framework#readme"
+}
